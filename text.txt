@@ -1,0 +1,5 @@
+"Which products from qualanal.grid_products are linked to change requests in qualanal.change_management?"
+"Show me all changes from qualanal.change_management with their related materials from qualanal.grid_material_information."
+"List all change requests from qualanal.change_management and their products from qualanal.grid_products."
+"Which materials from qualanal.grid_material_information belong to products in qualanal.grid_products that have change requests in qualanal.change_management?"
+"Find change requests from qualanal.change_management with their responsible departments and related products from qualanal.grid_products."
